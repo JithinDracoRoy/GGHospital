@@ -1,7 +1,8 @@
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: #F5F5F5;
-
+    width: 100%;
+    align-items: center;
 }
 .head-container{
     display: flex;
@@ -192,7 +193,7 @@ select{
 .arrow2{
     position: absolute;
     left: 83%;
-    margin-top: -380px;
+    margin-top: -140px;
 }
 .back{
     background-color: #EAF2FF;

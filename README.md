@@ -4,4 +4,4 @@ Cloned it as close as possible to the required site
 
 Final Output:
 
-![ScreenShot](Images/GGhopsitalSS.png)
+![ScreenShot](images/GGhopsitalSS.png)
